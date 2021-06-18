@@ -56,7 +56,7 @@ int once = 1;
 
 const int addr = 0;
 long int habitTime = 60000; //90m *21days = 1890h, 2 m * 21.
-uint64_t dailyTime; //120000; //90 minutes real, 2 minutes demo.
+uint64_t dailyTime = 30000; //120000; //90 minutes real, 2 minutes demo.
 long int lifeTime = 8100;    //90m * 90days = 8100h, 2m*90.
 int days = 2;
 
